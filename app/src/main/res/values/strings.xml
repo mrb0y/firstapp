@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyfirstApp</string>
+
+    <string name="textview">Matt is learning android!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">a name</string>
+</resources>
